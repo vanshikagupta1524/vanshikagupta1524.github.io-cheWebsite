@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: 100;
+    font-family: 'Open Sans', sans-serif;
+}
+.parallax{
+    background: url('https://media.istockphoto.com/id/1391161353/photo/aerial-photos-of-the-whole-solar-sewage-treatment-plant.jpg?b=1&s=170667a&w=0&k=20&c=17P8ZILU_LYkhM5dtDmWei3SL9xaYjoNcHukmb9fUGk=') repeat fixed 100%;
+    background-size: cover;
+    color: aliceblue;
+}
+.parallax-1{
+    background: url('https://media.istockphoto.com/id/628811838/photo/wastewater-treatment-plant-during-construction.jpg?b=1&s=170667a&w=0&k=20&c=a-qYg8WErq4svtcNmy-wZPPFLVz97lTQ0FyHo-OIOA0=') repeat fixed 100%;
+    background-size: cover;
+    color: aliceblue;
+}
+.parallax-2{
+    background: url('https://media.istockphoto.com/id/527479177/photo/water-treatment-plant.jpg?b=1&s=170667a&w=0&k=20&c=GMvcD6bKmBmbSbR1mEtxYqTA5LtYoqZNyO4iVCFluj0=') repeat fixed 100%;
+    background-size: cover;
+    color: aliceblue;
+}
+.parallax-inner{
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+h3{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+h1{
+    font-size: 160px;
+    text-align: center;
+}
